@@ -1,0 +1,14 @@
+#Enviroment Variable
+.env
+
+#Virtual Enviroment
+venv/
+prompt/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+

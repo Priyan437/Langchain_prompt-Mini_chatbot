@@ -1,0 +1,5 @@
+langchain_huggingface
+os
+dotenv
+streamlit
+langchain_core
